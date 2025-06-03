@@ -1,6 +1,6 @@
 # EDI Datamapping and Processing  
 # EDI 数据映射与处理
-
+#### powered by [pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
 ---
 
 # ⚠️ 现实中会遇到的两个核心问题  
